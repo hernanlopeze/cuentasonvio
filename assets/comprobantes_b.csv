@@ -1,0 +1,15 @@
+Código,Comprobante
+6,Factura B
+7,Nota de Débito B
+8,Nota de Crédito B
+9,Recibo B / Tique-Recibo B
+10,Nota de Venta al Contado B
+40,Otros comprobantes B que cumplen RG 1415
+61,Cuentas de Venta y Líquido Producto B
+64,Liquidaciones B
+82,Tique-Factura B (Controlador Fiscal)
+113,Tique Nota de Crédito B (Controlador Fiscal)
+116,Tique Nota de Débito B (Controlador Fiscal)
+206,Factura de Crédito Electrónica MiPyME B (FCE B)
+207,Nota de Débito FCE B
+208,Nota de Crédito FCE B
